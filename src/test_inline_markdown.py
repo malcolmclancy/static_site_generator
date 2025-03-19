@@ -106,6 +106,5 @@ class TestInlineMarkdown(unittest.TestCase):
             matches,
         )
 
-
 if __name__ == "__main__":
     unittest.main()
